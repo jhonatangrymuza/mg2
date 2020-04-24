@@ -1,0 +1,8 @@
+{
+    "readiness_checks": {
+        "error": "<br/>Found non-writable path(s):<br/>/var/www/html/.github",
+        "file_permissions_verified": false
+    },
+    "last_timestamp": 1587752703,
+    "current_timestamp": 1587752762
+}
